@@ -18,7 +18,7 @@ const config = {
     user: 'Abdullah',
     password: 'Mamun4455',
     server: 'week9.database.windows.net',
-    database: 'week9',
+    database: 'Abdullah',
   options: {
     encrypt: true,
     enableArithAbort: true
